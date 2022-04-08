@@ -4,4 +4,11 @@
 
 
 Diagrama de clases
+![diagrama](diagrama.PNG)
+
+
+### Explicacion
+
+
+* Decidi delejar la responsabilidad 
 
