@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="nave" width="250" height="auto" src="IMG.png"/>
+    <img alt="nave" width="250" height="auto" src="img/IMG.png"/>
     <h1>Maco Wins</h1>
 </div>
 
@@ -90,7 +90,7 @@ mvn clean verify && git tag entrega-final && git push origin HEAD --tags
 
 
 #### Diagrama de clases
-![diagrama](diagramaV2.PNG)
+![diagrama](img/diagramaV2.PNG)
 
 
 #### Explicacion
