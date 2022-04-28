@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="nave" width="250" height="auto" src="https://g2z7g2s8.rocketcdn.me/wp-content/uploads/2016/08/star-wars-space.jpg"/>
+    <img alt="nave" width="250" height="auto" src="IMG.png"/>
     <h1>Maco Wins</h1>
 </div>
 
